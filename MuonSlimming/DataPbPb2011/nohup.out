@@ -1,0 +1,662 @@
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193321/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 21406
+ JobID  : 21407
+ Status : 0
+  > run
+    PandaID=1848849571
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193295/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZU
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 21408
+ JobID  : 21409
+ Status : 0
+  > run
+    PandaID=1848850213
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193294/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_INFN-T1
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_INFN-T1
+===================
+ JobsetID  : 21410
+ JobID  : 21411
+ Status : 0
+  > run
+    PandaID=1848850317
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193291/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RAL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RAL
+===================
+ JobsetID  : 21412
+ JobID  : 21413
+ Status : 0
+  > run
+    PandaID=1848850417
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193270/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZU
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 21414
+ JobID  : 21415
+ Status : 0
+  > run
+    PandaID=1848850547
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193546/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZU
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 21416
+ JobID  : 21417
+ Status : 0
+  > run
+    PandaID=1848850564
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193463/
+ERROR : brokerage failed
+ERROR : No candidate. Release:AtlasProduction-17.2.10.5/i686-slc5-gcc43-opt was not found at ['ANALY_SLAC']. Could not find sites
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193447/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RAL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RAL
+===================
+ JobsetID  : 21418
+ JobID  : 21419
+ Status : 0
+  > run
+    PandaID=1848850785
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193412/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RAL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RAL
+===================
+ JobsetID  : 21420
+ JobID  : 21421
+ Status : 0
+  > run
+    PandaID=1848850806
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193411/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_NIKHEF-ELPROD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_NIKHEF-ELPROD
+===================
+ JobsetID  : 21422
+ JobID  : 21423
+ Status : 0
+  > run
+    PandaID=1848850857
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193403/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZK
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZK
+===================
+ JobsetID  : 21424
+ JobID  : 21425
+ Status : 0
+  > run
+    PandaID=1848851249
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193402/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_ARC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_ARC
+===================
+ JobsetID  : 21426
+ JobID  : 21427
+ Status : 0
+  > run
+    PandaID=1848851310
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193604/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZU
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 21428
+ JobID  : 21429
+ Status : 0
+  > run
+    PandaID=1848851380
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193641/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC-T2
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC-T2
+===================
+ JobsetID  : 21430
+ JobID  : 21431
+ Status : 0
+  > run
+    PandaID=1848851429
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193687/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 21432
+ JobID  : 21433
+ Status : 0
+  > run
+    PandaID=1848851517
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193718/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZU
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 21434
+ JobID  : 21435
+ Status : 0
+  > run
+    PandaID=1848851602
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193823/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_ARC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_ARC
+===================
+ JobsetID  : 21436
+ JobID  : 21437
+ Status : 0
+  > run
+    PandaID=1848851722
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194060/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 21438
+ JobID  : 21439
+ Status : 0
+  > run
+    PandaID=1848851783
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194121/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_MANC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_MANC
+===================
+ JobsetID  : 21440
+ JobID  : 21441
+ Status : 0
+  > run
+    PandaID=1848851898
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194179/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IHEP
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IHEP
+===================
+ JobsetID  : 21442
+ JobID  : 21443
+ Status : 0
+  > run
+    PandaID=1848851937
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194192/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 21444
+ JobID  : 21445
+ Status : 0
+  > run
+    PandaID=1848852039
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194193/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_MANC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_MANC
+===================
+ JobsetID  : 21446
+ JobID  : 21447
+ Status : 0
+  > run
+    PandaID=1848852230
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194382/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_MANC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_MANC
+===================
+ JobsetID  : 21448
+ JobID  : 21449
+ Status : 0
+  > run
+    PandaID=1848852285
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194374/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_MANC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_MANC
+===================
+ JobsetID  : 21450
+ JobID  : 21451
+ Status : 0
+  > run
+    PandaID=1848852409
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194370/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 21452
+ JobID  : 21453
+ Status : 0
+  > run
+    PandaID=1848852592
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194287/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 21454
+ JobID  : 21455
+ Status : 0
+  > run
+    PandaID=1848852720
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194163/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZK
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZK
+===================
+ JobsetID  : 21456
+ JobID  : 21457
+ Status : 0
+  > run
+    PandaID=1848852867
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194160/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC-T2
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC-T2
+===================
+ JobsetID  : 21458
+ JobID  : 21459
+ Status : 0
+  > run
+    PandaID=1848853135
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194079/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC-T2
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC-T2
+===================
+ JobsetID  : 21460
+ JobID  : 21461
+ Status : 0
+  > run
+    PandaID=1848853155
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194061/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_MANC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_MANC
+===================
+ JobsetID  : 21462
+ JobID  : 21463
+ Status : 0
+  > run
+    PandaID=1848853191
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.194017/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_AGLT2
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_AGLT2
+===================
+ JobsetID  : 21464
+ JobID  : 21465
+ Status : 0
+  > run
+    PandaID=1848853314
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193834/
+ERROR : brokerage failed
+ERROR : No candidate. Release:AtlasProduction-17.2.10.5/i686-slc5-gcc43-opt was not found at ['ANALY_SLAC']. Could not find sites
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193826/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_AGLT2
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_AGLT2
+===================
+ JobsetID  : 21466
+ JobID  : 21467
+ Status : 0
+  > run
+    PandaID=1848853685
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193825/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : 1 files are missing or unchecked at ANALY_RAL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RAL
+===================
+ JobsetID  : 21468
+ JobID  : 21469
+ Status : 0
+  > run
+    PandaID=1848853751
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.Slimmed.2013.06.18.v02.193825/
+INFO : all files are available at ANALY_FZU
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 21468
+ JobID  : 21470
+ Status : 0
+  > run
+    PandaID=1848853811
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193599/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_SHORT
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_SHORT
+===================
+ JobsetID  : 21471
+ JobID  : 21472
+ Status : 0
+  > run
+    PandaID=1848853991
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193558/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_NIKHEF-ELPROD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_NIKHEF-ELPROD
+===================
+ JobsetID  : 21473
+ JobID  : 21474
+ Status : 0
+  > run
+    PandaID=1848854053
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193662/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IHEP
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_IHEP
+===================
+ JobsetID  : 21475
+ JobID  : 21476
+ Status : 0
+  > run
+    PandaID=1848854230
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193679/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZK
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZK
+===================
+ JobsetID  : 21477
+ JobID  : 21478
+ Status : 0
+  > run
+    PandaID=1848854299
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193890/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_NIKHEF-ELPROD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_NIKHEF-ELPROD
+===================
+ JobsetID  : 21479
+ JobID  : 21480
+ Status : 0
+  > run
+    PandaID=1848854478
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193481/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC-T2
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC-T2
+===================
+ JobsetID  : 21481
+ JobID  : 21482
+ Status : 0
+  > run
+    PandaID=1848854576
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193491/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_TOKYO
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_TOKYO
+===================
+ JobsetID  : 21483
+ JobID  : 21484
+ Status : 0
+  > run
+    PandaID=1848854673
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193492/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BU_ATLAS_Tier2
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BU_ATLAS_Tier2
+===================
+ JobsetID  : 21485
+ JobID  : 21486
+ Status : 0
+  > run
+    PandaID=1848854777
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193493/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC-T2
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC-T2
+===================
+ JobsetID  : 21487
+ JobID  : 21488
+ Status : 0
+  > run
+    PandaID=1848854864
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193494/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_NIKHEF-ELPROD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_NIKHEF-ELPROD
+===================
+ JobsetID  : 21489
+ JobID  : 21490
+ Status : 0
+  > run
+    PandaID=1848854972
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193655/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_ARC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_ARC
+===================
+ JobsetID  : 21491
+ JobID  : 21492
+ Status : 0
+  > run
+    PandaID=1848855001
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193795/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 21493
+ JobID  : 21494
+ Status : 0
+  > run
+    PandaID=1848855025
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.06.10.v01.193211/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : 1 files are missing or unchecked at ANALY_IHEP
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IHEP
+===================
+ JobsetID  : 21495
+ JobID  : 21496
+ Status : 0
+  > run
+    PandaID=1848855216
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.Slimmed.2013.06.18.v02.193211/
+INFO : all files are available at ANALY_FZK
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZK
+===================
+ JobsetID  : 21495
+ JobID  : 21497
+ Status : 0
+  > run
+    PandaID=1848855445
+
+

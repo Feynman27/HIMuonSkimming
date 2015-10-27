@@ -1,0 +1,19 @@
+CC        = /afs/cern.ch/sw/lcg/external/gcc/4.3.2/x86_64/bin/g++
+CCFLAGS   = -Wall -g  
+INCS      = `root-config --cflags` -I.  
+LIBS      = `root-config --libs` -lTreePlayer -lCintex 
+
+SkimMain.exe : SkimMain.C BranchBase.o MuonBranch.o TrigGlobalBranch.o 
+	$(CC) $(CCFLAGS) $< BranchBase.o MuonBranch.o TrigGlobalBranch.o -o $@ $(INCS) $(LIBS) 
+
+TrigGlobalBranch.o: TrigGlobalBranch.C TrigGlobalBranch.h BranchBase.o
+	$(CC) $(CCFLAGS) -c $< $(INCS) $(LIBS) 
+
+MuonBranch.o: MuonBranch.C MuonBranch.h BranchBase.o
+	$(CC) $(CCFLAGS) -c $< $(INCS) $(LIBS) 
+
+BranchBase.o : BranchBase.C BranchBase.h
+	$(CC) $(CCFLAGS) -c $< $(INCS) $(LIBS) 
+
+clean :
+	rm -f Dict.o Dict.cxx Dict.h TrigGlobalBranch.o MuonBranch.o BranchBase.o SkimMain.exe skimmed.root

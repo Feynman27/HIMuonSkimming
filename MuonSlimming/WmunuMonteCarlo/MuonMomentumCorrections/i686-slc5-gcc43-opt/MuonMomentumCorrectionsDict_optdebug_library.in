@@ -1,0 +1,8 @@
+document optdebug_library MuonMomentumCorrectionsDict_optdebug_library library=MuonMomentumCorrectionsDict
+make_fragment make_header /cvmfs/atlas.cern.ch/repo/sw/software/i686-slc5-gcc43-opt/17.2.2/CMT/v1r24/mgr/fragments/make_header
+make_fragment dependencies /cvmfs/atlas.cern.ch/repo/sw/software/i686-slc5-gcc43-opt/17.2.2/AtlasCore/17.2.2/AtlasPolicy/cmt/fragments/dependencies
+make_fragment cleanup_header /cvmfs/atlas.cern.ch/repo/sw/software/i686-slc5-gcc43-opt/17.2.2/AtlasCore/17.2.2/AtlasPolicy/cmt/fragments/cleanup_header
+make_fragment optdebug_library -header=optdebug_library_header /cvmfs/atlas.cern.ch/repo/sw/software/i686-slc5-gcc43-opt/17.2.2/DetCommon/17.2.2/AtlasCommonPolicy/cmt/fragments/optdebug_library
+make_fragment optdebug_library_header /cvmfs/atlas.cern.ch/repo/sw/software/i686-slc5-gcc43-opt/17.2.2/DetCommon/17.2.2/AtlasCommonPolicy/cmt/fragments/optdebug_library_header
+make_fragment document_header /cvmfs/atlas.cern.ch/repo/sw/software/i686-slc5-gcc43-opt/17.2.2/CMT/v1r24/mgr/fragments/document_header
+make_fragment dependency /cvmfs/atlas.cern.ch/repo/sw/software/i686-slc5-gcc43-opt/17.2.2/CMT/v1r24/mgr/fragments/dependency

@@ -1,0 +1,9 @@
+document reflex_dict MuonMomentumCorrectionsGen ../MuonMomentumCorrections/MuonMomentumCorrectionsDict.h dictionary=MuonMomentumCorrections
+make_fragment make_header /cvmfs/atlas.cern.ch/repo/sw/software/x86_64-slc6-gcc47-opt/17.8.0/CMT/v1r25/mgr/fragments/make_header
+make_fragment dependencies /cvmfs/atlas.cern.ch/repo/sw/software/x86_64-slc6-gcc47-opt/17.8.0/AtlasCore/17.8.0/AtlasPolicy/cmt/fragments/dependencies
+make_fragment cleanup_header /cvmfs/atlas.cern.ch/repo/sw/software/x86_64-slc6-gcc47-opt/17.8.0/AtlasCore/17.8.0/AtlasPolicy/cmt/fragments/cleanup_header
+make_fragment reflex_dict -header=reflex_dict_header -trailer=reflex_dict_trailer -dependencies /cvmfs/atlas.cern.ch/repo/sw/software/x86_64-slc6-gcc47-opt/17.8.0/AtlasCore/17.8.0/External/AtlasReflex/cmt/fragments/reflex_dict
+make_fragment reflex_dict_header /cvmfs/atlas.cern.ch/repo/sw/software/x86_64-slc6-gcc47-opt/17.8.0/AtlasCore/17.8.0/External/AtlasReflex/cmt/fragments/reflex_dict_header
+make_fragment reflex_dict_trailer /cvmfs/atlas.cern.ch/repo/sw/software/x86_64-slc6-gcc47-opt/17.8.0/AtlasCore/17.8.0/External/AtlasReflex/cmt/fragments/reflex_dict_trailer
+make_fragment document_header /cvmfs/atlas.cern.ch/repo/sw/software/x86_64-slc6-gcc47-opt/17.8.0/CMT/v1r25/mgr/fragments/document_header
+make_fragment dependency /cvmfs/atlas.cern.ch/repo/sw/software/x86_64-slc6-gcc47-opt/17.8.0/CMT/v1r25/mgr/fragments/dependency

@@ -1,0 +1,91 @@
+119120 : 0 
+119121 : 0 
+119122 : 0 
+119122 : 0 
+119122 : 0 
+119120 : 0 
+119121 : 0 
+119122 : 0 
+119120 : 0 
+119121 : 0 
+119122 : 0 
+119120 : 0 
+119121 : 0 
+119122 : 0 
+119121 : 0 
+119120 : 0 
+119121 : 0 
+119122 : 0 
+119120 : 0 
+119121 : 0 
+119122 : 0 
+.
+===================
+ JobsetID  : 22465
+ JobID  : 22466
+ Status : 0
+  > run
+    PandaID=1869360023-1869360530
+.
+.
+===================
+ JobsetID  : 22465
+ JobID  : 22467
+ Status : 0
+  > run
+    PandaID=1869363315
+   status=test : ['ANALY_MWT2']
+   status=brokeroff : ['ANALY_DUKE_CLOUD', 'ANALY_MWT2_CLOUD', 'ANALY_UC_ITB']
+===================
+ JobsetID  : 22469
+ JobID  : 22470
+ Status : 0
+  > run
+    PandaID=1869368893-1869369108
+.
+===================
+ JobsetID  : 22469
+ JobID  : 22471
+ Status : 0
+  > run
+    PandaID=1869372373-1869372638
+   status=brokeroff : ['ANALY_DUKE_CLOUD']
+.
+===================
+ JobsetID  : 22472
+ JobID  : 22473
+ Status : 0
+  > run
+    PandaID=1869375425-1869375515
+   status=brokeroff : ['ANALY_DUKE_CLOUD']
+.
+===================
+ JobsetID  : 22894
+ JobID  : 22895
+ Status : 0
+  > run
+    PandaID=1871287359-1871287398
+.
+.
+===================
+ JobsetID  : 22894
+ JobID  : 22896
+ Status : 0
+  > run
+    PandaID=1871287429-1871287468
+.
+.
+   status=test : ['ANALY_MWT2']
+   status=brokeroff : ['ANALY_DUKE_CLOUD', 'ANALY_MWT2_CLOUD', 'ANALY_UC_ITB']
+===================
+ JobsetID  : 22897
+ JobID  : 22898
+ Status : 0
+  > run
+    PandaID=1871287917-1871287973
+===================
+ JobsetID  : 22897
+ JobID  : 22899
+ Status : 0
+  > run
+    PandaID=1871287987-1871288032

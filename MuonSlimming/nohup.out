@@ -1,0 +1,1234 @@
+Submitting all slim jobs...
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193321/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 23149
+ JobID  : 23150
+ Status : 0
+  > run
+    PandaID=1875407735
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193295/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23151
+ JobID  : 23152
+ Status : 0
+  > run
+    PandaID=1875407850
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.10.v01.193294/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_INFN-T1
+INFO : use 13 files
+INFO : submit 1 subjobs to ANALY_INFN-T1
+===================
+ JobsetID  : 23153
+ JobID  : 23154
+ Status : 0
+  > run
+    PandaID=1875407973
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193291/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23155
+ JobID  : 23156
+ Status : 0
+  > run
+    PandaID=1875408107
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193270/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23157
+ JobID  : 23158
+ Status : 0
+  > run
+    PandaID=1875408130
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193546/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23159
+ JobID  : 23160
+ Status : 0
+  > run
+    PandaID=1875408137
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193463/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : 1 files are missing or unchecked at ANALY_FZK
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZK
+===================
+ JobsetID  : 23161
+ JobID  : 23162
+ Status : 0
+  > run
+    PandaID=1875408147
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.Slimmed.2013.07.14.v01.193463/
+INFO : all files are available at ANALY_FZU
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 23161
+ JobID  : 23163
+ Status : 0
+  > run
+    PandaID=1875408188
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.10.v01.193447/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_FZU
+INFO : use 130 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 23164
+ JobID  : 23165
+ Status : 0
+  > run
+    PandaID=1875408199
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.10.v01.193412/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_INFN-MILANO-ATLASC
+INFO : use 128 files
+INFO : submit 1 subjobs to ANALY_INFN-MILANO-ATLASC
+===================
+ JobsetID  : 23166
+ JobID  : 23167
+ Status : 0
+  > run
+    PandaID=1875408209
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193411/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_NIKHEF-ELPROD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_NIKHEF-ELPROD
+===================
+ JobsetID  : 23168
+ JobID  : 23169
+ Status : 0
+  > run
+    PandaID=1875408217
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193403/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23170
+ JobID  : 23171
+ Status : 0
+  > run
+    PandaID=1875408325
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193402/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_ARC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_ARC
+===================
+ JobsetID  : 23172
+ JobID  : 23173
+ Status : 0
+  > run
+    PandaID=1875408523
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193604/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23174
+ JobID  : 23175
+ Status : 0
+  > run
+    PandaID=1875408717
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193641/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 23176
+ JobID  : 23177
+ Status : 0
+  > run
+    PandaID=1875408905
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193687/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23178
+ JobID  : 23179
+ Status : 0
+  > run
+    PandaID=1875409205
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193718/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_PIC_SL6
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_PIC_SL6
+===================
+ JobsetID  : 23180
+ JobID  : 23181
+ Status : 0
+  > run
+    PandaID=1875409314
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193823/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23182
+ JobID  : 23183
+ Status : 0
+  > run
+    PandaID=1875409323
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194060/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23184
+ JobID  : 23185
+ Status : 0
+  > run
+    PandaID=1875409334
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.10.v01.194121/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IHEP
+INFO : use 156 files
+INFO : submit 1 subjobs to ANALY_IHEP
+===================
+ JobsetID  : 23186
+ JobID  : 23187
+ Status : 0
+  > run
+    PandaID=1875409343
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194179/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IHEP
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IHEP
+===================
+ JobsetID  : 23188
+ JobID  : 23189
+ Status : 0
+  > run
+    PandaID=1875409376
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194192/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 23190
+ JobID  : 23191
+ Status : 0
+  > run
+    PandaID=1875409383
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194193/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : 1 files are missing or unchecked at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 23192
+ JobID  : 23193
+ Status : 0
+  > run
+    PandaID=1875409392
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.Slimmed.2013.07.14.v01.194193/
+INFO : all files are available at ANALY_FZU
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 23192
+ JobID  : 23194
+ Status : 0
+  > run
+    PandaID=1875409431
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.10.v01.194382/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : 47 files are missing or unchecked at ANALY_BNL_LONG
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 23195
+ JobID  : 23196
+ Status : 0
+  > run
+    PandaID=1875409474
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.Slimmed.2013.07.14.v01.194382/
+INFO : all files are available at ANALY_INFN-MILANO-ATLASC
+INFO : use 47 files
+INFO : submit 1 subjobs to ANALY_INFN-MILANO-ATLASC
+===================
+ JobsetID  : 23195
+ JobID  : 23197
+ Status : 0
+  > run
+    PandaID=1875409544
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194374/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_TAIWAN
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_TAIWAN
+===================
+ JobsetID  : 23198
+ JobID  : 23199
+ Status : 0
+  > run
+    PandaID=1875409594
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194370/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23200
+ JobID  : 23201
+ Status : 0
+  > run
+    PandaID=1875409614
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194287/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_MWT2_SL6
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_MWT2_SL6
+===================
+ JobsetID  : 23202
+ JobID  : 23203
+ Status : 0
+  > run
+    PandaID=1875409653
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.08.v01.194163/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : 118 files are missing or unchecked at ANALY_FZK
+INFO : use 56 files
+INFO : submit 1 subjobs to ANALY_FZK
+===================
+ JobsetID  : 23204
+ JobID  : 23205
+ Status : 0
+  > run
+    PandaID=1875409665
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.Slimmed.2013.07.14.v01.194163/
+INFO : all files are available at ANALY_FZU
+INFO : use 118 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 23204
+ JobID  : 23206
+ Status : 0
+  > run
+    PandaID=1875409676
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194160/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_TOKYO
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_TOKYO
+===================
+ JobsetID  : 23207
+ JobID  : 23208
+ Status : 0
+  > run
+    PandaID=1875409691
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194079/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 23209
+ JobID  : 23210
+ Status : 0
+  > run
+    PandaID=1875409729
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194061/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RAL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RAL
+===================
+ JobsetID  : 23211
+ JobID  : 23212
+ Status : 0
+  > run
+    PandaID=1875409738
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.194017/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_INFN-T1
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_INFN-T1
+===================
+ JobsetID  : 23213
+ JobID  : 23214
+ Status : 0
+  > run
+    PandaID=1875409746
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193834/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_INFN-T1
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_INFN-T1
+===================
+ JobsetID  : 23215
+ JobID  : 23216
+ Status : 0
+  > run
+    PandaID=1875409753
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193826/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_PIC_SL6
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_PIC_SL6
+===================
+ JobsetID  : 23217
+ JobID  : 23218
+ Status : 0
+  > run
+    PandaID=1875409786
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193825/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23219
+ JobID  : 23220
+ Status : 0
+  > run
+    PandaID=1875409794
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193599/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23221
+ JobID  : 23222
+ Status : 0
+  > run
+    PandaID=1875409803
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193558/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_NIKHEF-ELPROD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_NIKHEF-ELPROD
+===================
+ JobsetID  : 23223
+ JobID  : 23224
+ Status : 0
+  > run
+    PandaID=1875409879
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193662/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : 2 files are missing or unchecked at ANALY_IHEP
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IHEP
+===================
+ JobsetID  : 23225
+ JobID  : 23226
+ Status : 0
+  > run
+    PandaID=1875409885
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.Slimmed.2013.07.14.v01.193662/
+INFO : all files are available at ANALY_FZU
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 23225
+ JobID  : 23227
+ Status : 0
+  > run
+    PandaID=1875409898
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193679/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_MWT2_SL6
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_MWT2_SL6
+===================
+ JobsetID  : 23228
+ JobID  : 23229
+ Status : 0
+  > run
+    PandaID=1875409962
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193890/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_NIKHEF-ELPROD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_NIKHEF-ELPROD
+===================
+ JobsetID  : 23230
+ JobID  : 23231
+ Status : 0
+  > run
+    PandaID=1875410035
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193481/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 23232
+ JobID  : 23233
+ Status : 0
+  > run
+    PandaID=1875410092
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193491/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_TOKYO
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_TOKYO
+===================
+ JobsetID  : 23234
+ JobID  : 23235
+ Status : 0
+  > run
+    PandaID=1875410259
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193492/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23236
+ JobID  : 23237
+ Status : 0
+  > run
+    PandaID=1875410348
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193493/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 23238
+ JobID  : 23239
+ Status : 0
+  > run
+    PandaID=1875410376
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193494/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_NIKHEF-ELPROD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_NIKHEF-ELPROD
+===================
+ JobsetID  : 23240
+ JobID  : 23241
+ Status : 0
+  > run
+    PandaID=1875410386
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.08.v01.193655/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : 71 files are missing or unchecked at ANALY_GOEGRID
+INFO : use 42 files
+INFO : submit 1 subjobs to ANALY_GOEGRID
+===================
+ JobsetID  : 23242
+ JobID  : 23243
+ Status : 0
+  > run
+    PandaID=1875410430
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.Slimmed.2013.07.14.v01.193655/
+INFO : all files are available at ANALY_FZU
+INFO : use 71 files
+INFO : submit 1 subjobs to ANALY_FZU
+===================
+ JobsetID  : 23242
+ JobID  : 23244
+ Status : 0
+  > run
+    PandaID=1875410446
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193795/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_RHUL
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RHUL
+===================
+ JobsetID  : 23245
+ JobID  : 23246
+ Status : 0
+  > run
+    PandaID=1875410468
+
+
+INFO : query files in user.tbalestr.MuonJetsHardProbes.D3PD.2013.07.05.v01.193211/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/DataPbPb2011
+INFO : upload source files
+INFO : all files are available at ANALY_IHEP
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_IHEP
+===================
+ JobsetID  : 23247
+ JobID  : 23248
+ Status : 0
+  > run
+    PandaID=1875410707
+
+
+INFO : query files in user.tbalestr.mc11_2TeV.pythiaDataOverlay_jetjet_1muon_3p5Ptcut.recon.NTUP_HI.e1365_d724_r3635.2013.07.05.v01.119120/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/Jx1muMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : 6 files are missing or unchecked at ANALY_ARC
+INFO : use 6 files
+INFO : submit 1 subjobs to ANALY_ARC
+===================
+ JobsetID  : 23249
+ JobID  : 23250
+ Status : 0
+  > run
+    PandaID=1875410833
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.mc11_2TeV.pythiaDataOverlay_jetjet_1muon_3p5Ptcut.Slimmed.2013.07.14.v01.119120/
+INFO : all files are available at ANALY_PIC_SL6
+INFO : use 6 files
+INFO : submit 2 subjobs to ANALY_PIC_SL6
+===================
+ JobsetID  : 23249
+ JobID  : 23251
+ Status : 0
+  > run
+    PandaID=1875410860-1875410861
+
+
+INFO : query files in user.tbalestr.mc11_2TeV.pythiaDataOverlay_jetjet_1muon_3p5Ptcut.recon.NTUP_HI.e1365_d724_r3635.2013.07.10.v01.119121/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/Jx1muMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : 38 files are missing or unchecked at ANALY_FZK
+INFO : use 38 files
+INFO : submit 4 subjobs to ANALY_FZK
+===================
+ JobsetID  : 23252
+ JobID  : 23253
+ Status : 0
+  > run
+    PandaID=1875410878-1875410881
+INFO : trying other sites for the missing files
+INFO : query files in user.tbalestr.mc11_2TeV.pythiaDataOverlay_jetjet_1muon_3p5Ptcut.Slimmed.2013.07.14.v01.119121/
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 38 files
+INFO : submit 4 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 23252
+ JobID  : 23254
+ Status : 0
+  > run
+    PandaID=1875410901-1875410907
+
+
+INFO : query files in user.tbalestr.mc11_2TeV.pythiaDataOverlay_jetjet_1muon_3p5Ptcut.recon.NTUP_HI.e1365_d724_r3635.2013.07.05.v01.119122/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/Jx1muMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 77 files
+INFO : submit 19 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 23255
+ JobID  : 23256
+ Status : 0
+  > run
+    PandaID=1875411095-1875411144
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaWmunu_1Lepton.DataOverlay.2013.07.12.v01.119989/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/WmunuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_SHORT
+INFO : use 12 files
+INFO : submit 4 subjobs to ANALY_BNL_SHORT
+===================
+ JobsetID  : 23257
+ JobID  : 23258
+ Status : 0
+  > run
+    PandaID=1875411285-1875411289
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaWmunu_1Lepton.DataOverlay.2013.07.12.v01.119988/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/WmunuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_FZK
+INFO : use 8 files
+INFO : submit 3 subjobs to ANALY_FZK
+===================
+ JobsetID  : 23259
+ JobID  : 23260
+ Status : 0
+  > run
+    PandaID=1875411339-1875411341
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaWmunu_1Lepton.DataOverlay.2013.07.12.v01.119987/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/WmunuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 8 files
+INFO : submit 3 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 23261
+ JobID  : 23262
+ Status : 0
+  > run
+    PandaID=1875411469-1875411471
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaWmunu_1Lepton.DataOverlay.2013.07.12.v01.119986/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/WmunuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_LONG
+INFO : use 6 files
+INFO : submit 2 subjobs to ANALY_BNL_LONG
+===================
+ JobsetID  : 23263
+ JobID  : 23264
+ Status : 0
+  > run
+    PandaID=1875411532-1875411535
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199933242/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 23265
+ JobID  : 23266
+ Status : 0
+  > run
+    PandaID=1875411870
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199923242/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_TAIWAN
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_TAIWAN
+===================
+ JobsetID  : 23267
+ JobID  : 23268
+ Status : 0
+  > run
+    PandaID=1875412181
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199913242/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_TAIWAN
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_TAIWAN
+===================
+ JobsetID  : 23269
+ JobID  : 23270
+ Status : 0
+  > run
+    PandaID=1875412502
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199903242/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_RAL_XROOTD
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_RAL_XROOTD
+===================
+ JobsetID  : 23271
+ JobID  : 23272
+ Status : 0
+  > run
+    PandaID=1875412643
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199933241/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_TRIUMF
+INFO : use 4 files
+INFO : submit 3 subjobs to ANALY_TRIUMF
+===================
+ JobsetID  : 23273
+ JobID  : 23274
+ Status : 0
+  > run
+    PandaID=1875412873-1875412877
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.08.v01.1199923241/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_FZK
+INFO : use 25 files
+INFO : submit 2 subjobs to ANALY_FZK
+===================
+ JobsetID  : 23275
+ JobID  : 23276
+ Status : 0
+  > run
+    PandaID=1875412894-1875412895
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199913241/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 3 files
+INFO : submit 2 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 23277
+ JobID  : 23278
+ Status : 0
+  > run
+    PandaID=1875413029-1875413030
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199903241/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_RAL
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_RAL
+===================
+ JobsetID  : 23279
+ JobID  : 23280
+ Status : 0
+  > run
+    PandaID=1875413352
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199933240/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_TRIUMF
+INFO : use 4 files
+INFO : submit 2 subjobs to ANALY_TRIUMF
+===================
+ JobsetID  : 23281
+ JobID  : 23282
+ Status : 0
+  > run
+    PandaID=1875413508-1875413509
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199923240/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_RAL
+INFO : use 3 files
+INFO : submit 2 subjobs to ANALY_RAL
+===================
+ JobsetID  : 23283
+ JobID  : 23284
+ Status : 0
+  > run
+    PandaID=1875413632-1875413634
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199913240/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_SARA
+INFO : use 3 files
+INFO : submit 2 subjobs to ANALY_SARA
+===================
+ JobsetID  : 23285
+ JobID  : 23286
+ Status : 0
+  > run
+    PandaID=1875413864-1875413868
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199903240/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_RAL
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_RAL
+===================
+ JobsetID  : 23287
+ JobID  : 23288
+ Status : 0
+  > run
+    PandaID=1875414248
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199933239/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_TRIUMF
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_TRIUMF
+===================
+ JobsetID  : 23289
+ JobID  : 23290
+ Status : 0
+  > run
+    PandaID=1875414532
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199923239/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_TRIUMF
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_TRIUMF
+===================
+ JobsetID  : 23291
+ JobID  : 23292
+ Status : 0
+  > run
+    PandaID=1875414714
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199913239/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_SARA
+INFO : use 2 files
+INFO : submit 1 subjobs to ANALY_SARA
+===================
+ JobsetID  : 23293
+ JobID  : 23294
+ Status : 0
+  > run
+    PandaID=1875414729
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199903239/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_TRIUMF
+INFO : use 1 files
+INFO : submit 1 subjobs to ANALY_TRIUMF
+===================
+ JobsetID  : 23295
+ JobID  : 23296
+ Status : 0
+  > run
+    PandaID=1875414768
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199933238/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_TRIUMF
+INFO : use 7 files
+INFO : submit 4 subjobs to ANALY_TRIUMF
+===================
+ JobsetID  : 23297
+ JobID  : 23298
+ Status : 0
+  > run
+    PandaID=1875414782-1875414785
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199913238/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_RAL
+INFO : use 5 files
+INFO : submit 4 subjobs to ANALY_RAL
+===================
+ JobsetID  : 23299
+ JobID  : 23300
+ Status : 0
+  > run
+    PandaID=1875414806-1875414809
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199903238/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_IN2P3-CC
+INFO : use 4 files
+INFO : submit 3 subjobs to ANALY_IN2P3-CC
+===================
+ JobsetID  : 23301
+ JobID  : 23302
+ Status : 0
+  > run
+    PandaID=1875414822-1875414824
+
+
+INFO : query files in user.tbalestr.NTUP_HI.mc11_2TeV.PythiaZmumu_1Lepton.2013.07.05.v01.1199923238/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.10.5/MuonSlimming/ZmumuMonteCarlo
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrectionsDict.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/i686-slc5-gcc43-opt/libMuonMomentumCorrections.so
+  skip ['.o', '.a', '.so'] ./MuonMomentumCorrections/src/libMuonMomentumCorrections.a
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_SARA
+INFO : use 5 files
+INFO : submit 3 subjobs to ANALY_SARA
+===================
+ JobsetID  : 23303
+ JobID  : 23304
+ Status : 0
+  > run
+    PandaID=1875414848-1875414850
+
+
+Done running script.

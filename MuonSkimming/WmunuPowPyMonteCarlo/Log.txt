@@ -1,0 +1,303 @@
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+119988 : 0 
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+119988 : 0 
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+119987 : 0 
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+119989 : 0 
+119988 : 0 
+119987 : 0 
+119986 : 0 
+.
+===================
+ JobsetID  : 22476
+ JobID  : 22477
+ Status : 0
+  > run
+    PandaID=1869382030-1869382070
+   status=brokeroff : ['ANALY_DUKE_CLOUD']
+===================
+ JobsetID  : 22479
+ JobID  : 22480
+ Status : 0
+  > run
+    PandaID=1869383266-1869383278
+.
+===================
+ JobsetID  : 22481
+ JobID  : 22482
+ Status : 0
+  > run
+    PandaID=1869383867-1869383880
+   status=brokeroff : ['ANALY_DUKE_CLOUD']
+.
+===================
+ JobsetID  : 22483
+ JobID  : 22484
+ Status : 0
+  > run
+    PandaID=1869385177-1869385303
+   status=brokeroff : ['ANALY_DUKE_CLOUD']
+===================
+ JobsetID  : 22892
+ JobID  : 22893
+ Status : 0
+  > run
+    PandaID=1871284202-1871284274
+===================
+ JobsetID  : 23066
+ JobID  : 23067
+ Status : 0
+  > run
+    PandaID=1873689789-1873689954
+===================
+ JobsetID  : 23070
+ JobID  : 23071
+ Status : 0
+  > run
+    PandaID=1873690105-1873690123
+.
+===================
+ JobsetID  : 23074
+ JobID  : 23075
+ Status : 0
+  > run
+    PandaID=1873690307-1873690454
+   status=brokeroff : ['ANALY_DUKE_CLOUD']
+.
+===================
+ JobsetID  : 23078
+ JobID  : 23079
+ Status : 0
+  > run
+    PandaID=1873691253-1873691291
+   status=brokeroff : ['ANALY_DUKE_CLOUD']
+===================
+ JobsetID  : 23609
+ JobID  : 23610
+ Status : 0
+  > run
+    PandaID=1907741335-1907741347
+===================
+ JobsetID  : 23611
+ JobID  : 23612
+ Status : 0
+  > run
+    PandaID=1907741362-1907741370
+===================
+ JobsetID  : 23613
+ JobID  : 23614
+ Status : 0
+  > run
+    PandaID=1907741382-1907741397
+===================
+ JobsetID  : 23615
+ JobID  : 23616
+ Status : 0
+  > run
+    PandaID=1907741542-1907741551
+===================
+ JobsetID  : 25191
+ JobID  : 25192
+ Status : 0
+  > run
+    PandaID=1942063980-1942064059
+===================
+ JobsetID  : 25193
+ JobID  : 25194
+ Status : 0
+  > run
+    PandaID=1942064225-1942064256
+===================
+ JobsetID  : 25195
+ JobID  : 25196
+ Status : 0
+  > run
+    PandaID=1942064271-1942064279
+===================
+ JobsetID  : 25197
+ JobID  : 25198
+ Status : 0
+  > run
+    PandaID=1942064298-1942064303
+===================
+ JobsetID  : 25199
+ JobID  : 25200
+ Status : 0
+  > run
+    PandaID=1942064319-1942064400
+===================
+ JobsetID  : 25201
+ JobID  : 25202
+ Status : 0
+  > run
+    PandaID=1942064520-1942064577
+===================
+ JobsetID  : 25203
+ JobID  : 25204
+ Status : 0
+  > run
+    PandaID=1942064625-1942064643
+===================
+ JobsetID  : 25205
+ JobID  : 25206
+ Status : 0
+  > run
+    PandaID=1942064666-1942064680
+===================
+ JobsetID  : 25207
+ JobID  : 25208
+ Status : 0
+  > run
+    PandaID=1942064702-1942064734
+===================
+ JobsetID  : 25209
+ JobID  : 25210
+ Status : 0
+  > run
+    PandaID=1942064806-1942064826
+===================
+ JobsetID  : 25211
+ JobID  : 25212
+ Status : 0
+  > run
+    PandaID=1942064860-1942064879
+===================
+ JobsetID  : 25213
+ JobID  : 25214
+ Status : 0
+  > run
+    PandaID=1942064896-1942064908
+===================
+ JobsetID  : 25215
+ JobID  : 25216
+ Status : 0
+  > run
+    PandaID=1942064928-1942064941
+===================
+ JobsetID  : 25217
+ JobID  : 25218
+ Status : 0
+  > run
+    PandaID=1942064969-1942064980
+===================
+ JobsetID  : 25219
+ JobID  : 25220
+ Status : 0
+  > run
+    PandaID=1942064999-1942065009
+===================
+ JobsetID  : 25221
+ JobID  : 25222
+ Status : 0
+  > run
+    PandaID=1942065030-1942065040
+===================
+ JobsetID  : 25223
+ JobID  : 25224
+ Status : 0
+  > run
+    PandaID=1942065069-1942065137
+===================
+ JobsetID  : 25225
+ JobID  : 25226
+ Status : 0
+  > run
+    PandaID=1942065175-1942065230
+===================
+ JobsetID  : 25227
+ JobID  : 25228
+ Status : 0
+  > run
+    PandaID=1942065266-1942065289
+===================
+ JobsetID  : 25229
+ JobID  : 25230
+ Status : 0
+  > run
+    PandaID=1942065305-1942065350
+  skip root file ./skimmed.root
+===================
+ JobsetID  : 25380
+ JobID  : 25381
+ Status : 0
+  > run
+    PandaID=1946294725-1946294804
+  skip root file ./skimmed.root
+===================
+ JobsetID  : 25382
+ JobID  : 25383
+ Status : 0
+  > run
+    PandaID=1946295320-1946295407
+  skip root file ./skimmed.root
+===================
+ JobsetID  : 25384
+ JobID  : 25385
+ Status : 0
+  > run
+    PandaID=1946295532-1946295544
+  skip root file ./skimmed.root
+===================
+ JobsetID  : 25386
+ JobID  : 25387
+ Status : 0
+  > run
+    PandaID=1946295716-1946295746
+  skip root file ./skimmed.root
+===================
+ JobsetID  : 25388
+ JobID  : 25389
+ Status : 0
+  > run
+    PandaID=1946296341-1946296418
+  skip root file ./skimmed.root
+===================
+ JobsetID  : 25390
+ JobID  : 25391
+ Status : 0
+  > run
+    PandaID=1946296834-1946296844
+  skip root file ./skimmed.root
+===================
+ JobsetID  : 25392
+ JobID  : 25393
+ Status : 0
+  > run
+    PandaID=1946296899-1946296909
+  skip root file ./skimmed.root
+===================
+ JobsetID  : 25394
+ JobID  : 25395
+ Status : 0
+  > run
+    PandaID=1946296933-1946296954

@@ -1,0 +1,64 @@
+INFO : query files in mc11_2TeV.119989.PythiaWmunu_1Lepton_nnBeam_276TeV.recon.NTUP_HI.e1365_d724_r3635/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.2.2/MuonSkimming/WmunuMonteCarlo
+  skip root file ./skimmed.root
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_BNL_ATLAS_1
+INFO : use 732 files
+INFO : submit 13 subjobs to ANALY_BNL_ATLAS_1
+===================
+ JobsetID  : 19595
+ JobID  : 19596
+ Status : 0
+  > run
+    PandaID=1828296413-1828296579
+
+
+INFO : query files in mc11_2TeV.119988.PythiaWmunu_1Lepton_npBeam_276TeV.recon.NTUP_HI.e1365_d724_r3635/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.2.2/MuonSkimming/WmunuMonteCarlo
+  skip root file ./skimmed.root
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_GOEGRID
+INFO : use 476 files
+INFO : submit 8 subjobs to ANALY_GOEGRID
+===================
+ JobsetID  : 19599
+ JobID  : 19600
+ Status : 0
+  > run
+    PandaID=1828296688-1828296751
+
+
+INFO : query files in mc11_2TeV.119987.PythiaWmunu_1Lepton_pnBeam_276TeV.recon.NTUP_HI.e1365_d724_r3635/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.2.2/MuonSkimming/WmunuMonteCarlo
+  skip root file ./skimmed.root
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_GOEGRID
+INFO : use 475 files
+INFO : submit 8 subjobs to ANALY_GOEGRID
+===================
+ JobsetID  : 19601
+ JobID  : 19602
+ Status : 0
+  > run
+    PandaID=1828297041-1828297071
+
+
+INFO : query files in mc11_2TeV.119986.PythiaWmunu_1Lepton_ppBeam_276TeV.recon.NTUP_HI.e1365_d724_r3635/
+INFO : gathering files under /afs/cern.ch/user/t/tbalestr/public/17.2.2.2/MuonSkimming/WmunuMonteCarlo
+  skip root file ./skimmed.root
+INFO : please use --maxFileSize or --extFile if you need to send the skipped files to WNs
+INFO : upload source files
+INFO : all files are available at ANALY_GOEGRID
+INFO : use 316 files
+INFO : submit 6 subjobs to ANALY_GOEGRID
+===================
+ JobsetID  : 19605
+ JobID  : 19606
+ Status : 0
+  > run
+    PandaID=1828297298-1828297392
+
+
